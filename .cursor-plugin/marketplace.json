@@ -1,0 +1,1 @@
+{"name":"merageo","owner":{"name":"meraGEO","email":"hello@merageo.com"},"metadata":{"description":"meraGEO plugins for Cursor","version":"0.1.0"},"plugins":[{"name":"merageo","source":"./plugins/merageo","description":"Check how ChatGPT, Claude and Gemini talk about a website, from inside Cursor"}]}
