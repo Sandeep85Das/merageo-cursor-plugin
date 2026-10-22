@@ -1,0 +1,9 @@
+---
+description: When editing a public website, check AI visibility with the meraGEO tools before and after changes
+alwaysApply: false
+---
+
+ai-visibility:
+
+- For changes to landing pages, docs or llms.txt, run the meraGEO AI visibility check on the domain before and after the change.
+- Quote the score and the model mentions from the tool, not from memory.
