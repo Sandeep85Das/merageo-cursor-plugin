@@ -1,5 +1,7 @@
 # meraGEO AI Visibility for Cursor
 
+[![meraGEO MCP connector](https://glama.ai/mcp/connectors/com.merageo/ai-visibility/badges/score.svg)](https://glama.ai/mcp/connectors/com.merageo/ai-visibility)
+
 Checks how ChatGPT, Claude and Gemini mention a website, right from Cursor.
 
 - 0-100 AI visibility score for a domain
